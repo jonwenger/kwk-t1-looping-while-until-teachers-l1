@@ -8,4 +8,3 @@ def using_while
 	end
 	puts "now our force is #{levitation_force}!"
 end
-
