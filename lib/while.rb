@@ -1,5 +1,5 @@
-do using_while
-end
+using_while
+
 
 levitation_force = 6
 
@@ -10,4 +10,3 @@ def using_while
 	end
 	puts "now our force is #{levitation_force}!"
 end
-
